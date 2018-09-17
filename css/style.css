@@ -1,0 +1,28 @@
+.bg {
+	background: url(../img/bg.jpg) 100%;
+	padding-top: 97px;
+}
+
+.div {
+	height: 400px;
+	width: 400px;
+	background: url(../img/leaves.jpg) 100%;
+	border-radius: 24px;
+	margin: 0 auto;
+	text-align: center;
+	color: #800000;
+}
+
+.text {
+	padding-top: 47px;
+}
+
+textarea {
+	outline: none;
+	border: 1px solid #999;
+	width: 400px;
+	height: 200px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
